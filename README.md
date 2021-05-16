@@ -1,0 +1,1 @@
+# A fullstack .NET 6 (preview) CRUD application using CLEAN ARCHITECTURE for the backend and react with MobX for the frontend
